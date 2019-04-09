@@ -1,3 +1,3 @@
-# Chain-Gang
+# Cock and Ball torture. from wikipedia
 
-Cock and ball torture (CBT) or penis torture is a sexual activity involving application of pain or constriction to the male genitals.
+Cock and ball torture (CBT) is a sexual activity involving application of pain or constriction to the male genitals. This may involve directly painful activities, such as wax play, genital spanking, squeezing, ball-busting, genital flogging, urethral play, tickle torture, erotic electrostimulation or even kicking.[1] The recipient of such activities may receive direct physical pleasure via masochism, or emotional pleasure through erotic humiliation, or knowledge that the play is pleasing to a sadistic dominant. Many of these practices carry significant health risks.
