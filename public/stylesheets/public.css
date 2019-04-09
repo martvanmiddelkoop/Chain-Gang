@@ -15,7 +15,7 @@ body {
 }
 
 header {
-  width: 980px;
+  width: 1080px;
   margin: 0 auto;
   padding: 0;
   text-align: left;
@@ -40,7 +40,7 @@ header h1 a img.bike-icon {
 }
 
 #main {
-  width: 980px;
+  width: 1080px;
   height: 500px;
   margin: 0 auto;
   padding: 0;
@@ -51,7 +51,7 @@ header h1 a img.bike-icon {
   top: 400px;
   left: 0;
   width: 100%;
-  min-width: 980px;
+  min-width: 1080px;
 }
 
 img#super-hero-image {
@@ -60,7 +60,7 @@ img#super-hero-image {
 
 footer {
   clear: both;
-  width: 980px;
+  width: 1080px;
   margin: 0 auto;
   padding: 10px;
   background-color: #FFFFFF;
@@ -117,7 +117,7 @@ img.inset {
 
 table#inventory {
   margin-top: 30px;
-  width: 980px;
+  width: 1080px;
   border-collapse: collapse;
 }
 
