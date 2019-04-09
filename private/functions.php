@@ -43,4 +43,9 @@ function is_get_request() {
   return $_SERVER['REQUEST_METHOD'] == 'GET';
 }
 
+function weekend()
+{
+	echo"Tied veur'n Pilsie";
+}
+
 ?>
