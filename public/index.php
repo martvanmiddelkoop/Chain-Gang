@@ -7,6 +7,8 @@
   <ul id="menu">
     <li><a href="<?php echo url_for('/bicycles.php'); ?>">View Our Inventory</a></li>
     <li><a href="<?php echo url_for('/about.php'); ?>">About Us</a></li>
+	<li><p>Dit is een verandering!</p></li>
+	
   </ul>
     
 </div>
